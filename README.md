@@ -1,6 +1,6 @@
-"Analyzing the Impact of Music Therapy on Mental Health: A Data-Driven Approach"
+# "Analyzing the Impact of Music Therapy on Mental Health: A Data-Driven Approach"
 
-Authors (equal contributors):
+# Authors (equal contributors):
 Anders Stachelek - anders.stachelek@baruchmail.cuny.edu
 Harini Mittal - harini.mittal@baruchmail.cuny.edu
 Jenny Yu - jenny.yu2@baruchmail.cuny.edu
@@ -8,7 +8,7 @@ William Forero - william.forero1@baruchmail.cuny.edu
 Yoon Young Kim - yoonyoung.kim@baruchmail.cuny.edu
 
 
-Abstract
+# Abstract
 
 Music therapy has increasingly been recognized for its potential in improving mental health outcomes for individuals suffering from mental illnesses, specifically, anxiety and depression. This paper provides an analysis and visualization on the relationship of music and reported mental health scores for anxiety and depression. Using different visualization tools we examined the effects of music reported on surveys collected from 612 participants. In general, we found that listening to music has favorable effects on mental health. Our findings reveal that participants who reported the music worsened their anxiety favored the genres pop, video game, and classical music. Those that reported improvements in their anxiety favored genres of latin, country, jazz, and gospel. Participants who reported worsening in their depression favored classical, rock, and video game music. Those that reported improvements in their depression with lower average levels of depression favored kpop, r&b, gospel, and country music.We also identified patterns in time spent listening to music and BPM, finding that music preferences vary according to age demographics. These findings would suggest that our partnership with Spotify is best served by creating curated playlists tailored to improving anxiety and depression focusing on specific genres such as country, folk, gospel, jazz, kpop, and latin, timing and BPM. Overall, the survey results suggest further research into the usage of music as a therapeutic tool, which could have positive benefits for those suffering from anxiety and depression. Given that the primary dataset focuses exclusively on four specific mental illnesses, we identified a secondary dataset, "Global Trends in Mental Health Disorders," to expand our understanding of the global prevalence of seven mental illnesses. This secondary dataset includes anxiety and depression, which are also covered in the first dataset, along with five additional mental illnesses unique to the secondary dataset. Our analysis revealed three distinct clusters of anxiety and depression trends in the global dataset, similar to the first database. We also found relationships between different mental illnesses. Based on our visualization results, we propose expanding our curated music therapy services in three phases to benefit additional mental illnesses. Our broader audience will eventually include people worldwide seeking resources to improve their mood and mental well-being. Introduction The purpose of this analysis is to find which relationships exist between music, its different characteristics such as BPM and genre, individual’s listening time, and the impact such variables may have on self-reported mental health scores. By analyzing the different characteristics of music and the relationship people have with it, if any, we can better understand where to focus our efforts with partners such as Spotify in creating resources for those suffering from different mental health conditions. 
 
