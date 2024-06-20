@@ -7,6 +7,7 @@ Jenny Yu - jenny.yu2@baruchmail.cuny.edu
 William Forero - william.forero1@baruchmail.cuny.edu
 Yoon Young Kim - yoonyoung.kim@baruchmail.cuny.edu
 
+# Technology used: Tableau
 
 # Abstract
 
